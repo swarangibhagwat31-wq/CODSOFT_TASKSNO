@@ -153,10 +153,57 @@ Created a Total_Spending feature to represent overall customer expenditure.
 - Preparing datasets for advanced analytics
 
 ---
+## Task 2: Exploratory Data Analysis (EDA)
+
+## Objective
+The objective of this task was to perform Exploratory Data Analysis (EDA) on the Marketing Campaign dataset to identify customer demographics, spending patterns, purchasing behavior, and relationships between different variables.
+
+---
+
+## Visualizations Performed
+
+- Age Distribution Analysis
+- Income Distribution Analysis
+- Education Distribution Analysis
+- Marital Status Analysis
+- Product Spending Analysis
+- Purchase Channel Analysis
+- Correlation Heatmap
+
+---
+
+## Key Insights
+
+- Most customers belong to the middle-aged group, with the highest concentration between 45 and 65 years.
+- The majority of customers fall within a moderate income range, while a small number of high-income outliers are present.
+- Graduation is the most common education level among customers.
+- Married customers represent the largest customer segment in the dataset.
+- Wine products generate the highest customer spending, followed by Meat products.
+- Store purchases are the most preferred purchase channel, followed by web purchases.
+- Catalog purchases contribute the lowest number of purchases.
+- Income shows a positive relationship with Total Spending, indicating that higher-income customers generally spend more.
+- Customers who purchase more frequently tend to have higher overall spending.
+- Product spending categories exhibit positive correlations, suggesting that customers spending more in one category often spend more in others.
+
+---
+
+## Conclusion
+
+The Exploratory Data Analysis revealed valuable insights into customer demographics, spending habits, and purchasing preferences. The results indicate that middle-aged, moderately to highly earning customers contribute significantly to revenue. Wine and Meat products are the most popular spending categories, while physical stores remain the preferred purchase channel. These findings can help businesses improve customer targeting, optimize marketing campaigns, and enhance product promotion strategies.
+
+---
+
+## Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
 
 ## Future Work
 
-- Exploratory Data Analysis (EDA)
 - Customer Segmentation
 - RFM Analysis
 - Data Visualization
