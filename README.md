@@ -200,15 +200,49 @@ The Exploratory Data Analysis revealed valuable insights into customer demograph
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+---
+# Task 3: Data Visualization Dashboard
 
+## Customer Purchase & Campaign Analysis Dashboard
 
-## Future Work
+### Overview
+This project presents an interactive Power BI dashboard designed to analyze customer purchasing behavior, spending patterns, marketing campaign performance, and demographic insights. The dashboard helps identify customer preferences and key business trends through visual analytics.
 
-- Customer Segmentation
-- RFM Analysis
+### Tools Used
+- Power BI
+- Power Query
+- DAX
+- CSV Dataset
+
+### Dashboard Features
+- Total Customers
+- Average Income
+- Average Age
+- Total Spending
+- Spending by Product Category
+- Purchase Channel Analysis
+- Income vs Total Spending
+- Campaign Acceptance Analysis
+- Customer Marital Status Distribution
+
+### Key Insights
+- Wine products contribute the highest customer spending.
+- Store purchases are the most preferred purchase channel.
+- Higher-income customers generally tend to spend more.
+- Marketing campaign responses vary across campaigns.
+- Married and Together customers represent a significant customer segment.
+
+### Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Measures
 - Data Visualization
-- Marketing Campaign Performance Analysis
-- Dashboard Development using Power BI
+- Dashboard Design
+
+### Dashboard Preview
+
+
 
 ---
 
