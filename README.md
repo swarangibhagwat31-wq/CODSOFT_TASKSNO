@@ -240,8 +240,9 @@ This project presents an interactive Power BI dashboard designed to analyze cust
 - Data Visualization
 - Dashboard Design
 
-### Dashboard Preview
+## Dashboard Preview
 
+![Customer Purchase & Campaign Analysis](dash1.png)
 
 
 ---
