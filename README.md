@@ -268,6 +268,32 @@ Analyze customer data to understand purchasing behavior, segment customers, and 
 - Store purchases dominate customer buying behavior.
 - Wine and Meat products generate the highest spending.
 - Customer demographics influence purchasing patterns.
+---
+# Task 5 - Web Data Extraction & Analysis
+
+## Objective
+Extract data from a website using Python and perform exploratory data analysis.
+
+## Tools Used
+- Python
+- Requests
+- BeautifulSoup
+- Pandas
+- Matplotlib
+
+## Data Collected
+- Book Title
+- Price
+- Rating
+
+## Analysis Performed
+- Price Analysis
+- Rating Distribution
+- Data Cleaning
+- Visualization
+
+## Output
+A structured dataset was created and analyzed to identify trends and patterns.
 
 ---
 
