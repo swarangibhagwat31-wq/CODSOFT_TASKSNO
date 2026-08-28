@@ -244,6 +244,30 @@ This project presents an interactive Power BI dashboard designed to analyze cust
 
 ![Customer Purchase & Campaign Analysis](dash1.png)
 
+---
+# Task 4 - Customer Data Analysis
+
+## Objective
+Analyze customer data to understand purchasing behavior, segment customers, and identify valuable customer groups.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Analysis Performed
+- Age-based customer segmentation
+- Income-based segmentation
+- Purchase channel analysis
+- Marital status analysis
+- High-value customer identification
+
+## Key Insights
+- High-income customers are the most valuable segment.
+- Store purchases dominate customer buying behavior.
+- Wine and Meat products generate the highest spending.
+- Customer demographics influence purchasing patterns.
 
 ---
 
